@@ -1,4 +1,4 @@
-# DIY Dance Dance Revolution inspired game
+# DIY Dance Dance Revolution (inspired) pad !
 
 Si vous avez des suggestions, des idées, des questions, des corrections, ouvrez un ticket (issue) ou envoyez nous un mail ! 
 Plus on s'entraire plus les DDR fabriqués seront biens !
