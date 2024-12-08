@@ -1,29 +1,33 @@
 # DIY Dance Dance Revolution (inspired) pad !
 
-Si vous avez des suggestions, des idées, des questions, des corrections, ouvrez un ticket (issue) ou envoyez nous un mail ! 
-Plus on s'entraire plus les DDR fabriqués seront biens !
+Faisons nos propres DDRs !
+Si vous avez des suggestions, des idées, des questions, des corrections, ouvrez un ticket (issue) ou envoyez nous un mail, plus on s'entraire plus les DDR fabriqués seront biens !
 
 ## Logiciel du jeu
 
 Pour pouvoir jouer à un jeu de DDR, il faut un logiciel qui sert de jeu. Celui que j'ai utilisé est [itgmania](https://www.itgmania.com/) mais [stepmania](https://www.stepmania.com/) devrait marcher aussi. Installez celui de votre choix et lancez une partie pour tester si ca fonctionne correctement (en jouant avec les fleches directionnelles du clavier).
 
-// Screen shot de ITG Mania
+![image](https://github.com/user-attachments/assets/769ceec6-9dec-42e0-90fe-56b5d476b1ff)
 
 ## USB arcade encoder
 
 Le composant le plus important est celui qui va faire communiquer le pad (ce sur quoi on va marcher) avec l'ordinateur pour qu'il puisse lui dire sur quelle fleche on appuie.
 Les deux options les plus faciles sont : 
 - un [USB arcade encoder](https://www.ebay.com/itm/133163133451?itmprp=cksum%3A133163133451e007b8d0f3d14994b8030d134ee26497%7Cenc%3AAQAJAAABYMSBbt5JfLmj%252BdlAgetRxKsk9uNZiEHlB3hfttt0hmv1%252BpJoUCdSpe1JVf49yGC5tKtQ3g6HKD95AS2%252Bj%252BzdEev%252BQFVLBEv0%252FCdcgJMGFwLFhJ53WzLi3lqhEgvTYlFP2n6dii0kr%252BCTa3CZ07LoBuz1bIWF0E36UoD6Bg5wn9NHEbrtr8LCCZo7D2G7QFE2tU%252BgmskmJjQcEt38U8n3vZsRhwFqvi0NvXASBtDk8gMZQb%252FFHv2RJref%252FQNDsgRmSpZyfIAhV91ozNZLIXKqzGcR3PxoKrmLGvfoRSCLVMdXhwf4sEn2%252BBliRxkdirfad2y3d5IEWpKMLk3jcst7a8AoqvCRMio0Pu36K2YGqBcKHCFru45UG31HTXr6Y%252BBge0rzwG0aOGLbCa4xCdcnzYUNXazCn4xWNNnpeBtGUwyIvbTjh9hYmUsJvVwIpulV3MTIYWKsHE1bTtU0GPHcWFk%253D%7Campid%3APL_CLK%7Cclp%3A2332490&itmmeta=01HV44EGGQ89AKT6VV3G4BBDRD), une carte qui est détectée comme une manette donc c'est très facile à gérer. (l'option avec les cables est pratique car on peut juste enlever et ajouter des joueurs en débranchant les cables associés facilement)
-- un vieux circuit électronique de clavier (mais je n'ai pas testé)
+- un vieux circuit électronique de clavier (mais on n'a pas testé)
 
-///// Image du USB arcade encoder
+![image](https://github.com/user-attachments/assets/418a8db9-dc3a-419f-a7c2-1c7f5b034cee)
 
 // Explication du USB arcade encoder (ports pour les boutons) + photo
 
 L'USB arcade encoder se branche avec le cable USB sur le PC directement. Normalement il sera correctement détecté (automatiquement).
 Pour tester si il fonctionne correctement, lancez le logiciel choisi, allez dans les paramètres dans l'endroit pour tester les touches détectées et faites se joindre deux bouts d'un fil d'un même bouton.
+Il affichera soit une des flèches soit il mettra du texte `"nom de la touche" (not mapped)` et dans ce cas là il faudra aller dans le menu pour ajouter des nouvelles touches (il vaut mieux changer les touches secondaires pour éviter d'être coincé).
+Quand vous changez quelque chose dans les parametres du jeu, sortez des parametres avec les boutons des menus (bouton exit ou save and exit) car faire échap ne sauvegardera pas vos changements.
 
-// screenshot de l'endroit pour tester les touches
+![image](https://github.com/user-attachments/assets/6cfe0f48-c5de-4ed0-87d9-98e003e9546c)
+![image](https://github.com/user-attachments/assets/1cae8f71-b3ce-4bc9-b902-740c40c8a82d)
+![image](https://github.com/user-attachments/assets/6950f926-b35d-4f01-9f01-d6247a45fac9)
 
 # Pad
 
@@ -37,6 +41,7 @@ La solution que l'on a trouvé était de séparer la plaque en deux partie condu
 Pour qu'il puisse appuyer à un maximum d'endroit sur la plaque, la séparation des deux parties conductrices est en forme de créneaux pour que peu importe la position du pied, il y ai les deux parties sous son pied.
 
 // image de la plaque
+![image](https://github.com/user-attachments/assets/10996519-3ac3-458b-b5ed-dbb8aa09ce66)
 
 Le matériau conducteur que l'on avait choisi est de l'aluminium de cuisine collé au vernis-colle sur une plaque de bois agloméré. Attention une seule des faces des l'aluminium de cuisine est conductrice ! On a renforcé les bords de l'aluminum en collant du scotch dessus pour éviter qu'il s'arrache/se décolle par les bords. 
 Mais à force d'utilisation intensive l'aluminium risque de s'effritter. Nous n'avons pas encore de solution plus efficace pour ce problème. 
@@ -52,4 +57,4 @@ La solution était pratique pour pouvoir s'adapter à différentes tailles de pi
 Mais après trois jours de DDR intenses la tresse a commencé à se rompre car elle est peu adaptée à un piétinage intensif.
 Donc ce problème est toujours actuel et la faille principale de ce design actuellement.
 
-
+// image du chausson
