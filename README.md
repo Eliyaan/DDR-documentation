@@ -17,8 +17,9 @@ Les deux options les plus faciles sont :
 - un vieux circuit électronique de clavier (mais on n'a pas testé)
 
 ![image](https://github.com/user-attachments/assets/418a8db9-dc3a-419f-a7c2-1c7f5b034cee)
+![0](https://github.com/user-attachments/assets/121c5a22-0077-43fb-af21-6da257c28ca6)
 
-// Explication du USB arcade encoder (ports pour les boutons) + photo
+Les ports du bas de la carte sont facilement détectés par les logiciels, donc il y a suffisament de ports pour pouvoir jouer à deux ! (les logiciels supportent le jeu à deux pad et le jeu à deux joueurs)
 
 L'USB arcade encoder se branche avec le cable USB sur le PC directement. Normalement il sera correctement détecté (automatiquement).
 Pour tester si il fonctionne correctement, lancez le logiciel choisi, allez dans les paramètres dans l'endroit pour tester les touches détectées et faites se joindre deux bouts d'un fil d'un même bouton.
@@ -42,6 +43,9 @@ Pour qu'il puisse appuyer à un maximum d'endroit sur la plaque, la séparation 
 
 // image de la plaque
 ![image](https://github.com/user-attachments/assets/10996519-3ac3-458b-b5ed-dbb8aa09ce66)
+![image](https://github.com/user-attachments/assets/5145885e-146f-4232-adfa-ec0906b482b8)
+![image](https://github.com/user-attachments/assets/4c3dd4a7-a7ff-4d32-8739-816a6ef5a67d)
+
 
 Le matériau conducteur que l'on avait choisi est de l'aluminium de cuisine collé au vernis-colle sur une plaque de bois agloméré. Attention une seule des faces des l'aluminium de cuisine est conductrice ! On a renforcé les bords de l'aluminum en collant du scotch dessus pour éviter qu'il s'arrache/se décolle par les bords. 
 Mais à force d'utilisation intensive l'aluminium risque de s'effritter. Nous n'avons pas encore de solution plus efficace pour ce problème. 
@@ -55,6 +59,13 @@ Au Nantes Maker Campus 2024, les gens se prennaient les pieds dans les fils donc
 La solution que l'on avait choisi pour le matériau conducteur sous le pied du joueur était de faire une bande de carton accrochable à un pied avec de la tresse à déssouder enroulée dessus.
 La solution était pratique pour pouvoir s'adapter à différentes tailles de pieds (ce qui a très bien marché au Nantes Maker Campus 2024).
 Mais après trois jours de DDR intenses la tresse a commencé à se rompre car elle est peu adaptée à un piétinage intensif.
+On l'a changé par une tresse plus large (voir photo) mais elle va sans doute rompre aussi.
 Donc ce problème est toujours actuel et la faille principale de ce design actuellement.
 
-// image du chausson
+Voici le chausson après l'avoir utilisé intensément en extérieur au Nantes Maker Campus (d'où sa couleur):
+![0](https://github.com/user-attachments/assets/31332251-a55e-4656-88ec-579c0ba25ddb)
+Les petites découpes sont orientées vers la cheville du joueur quand il a le chausson autour du pied pour qu'il s'adapte mieux à la forme du pied et qu'il soit plus agréable.
+
+Voilà pour le DDR, si on a oublié des infos, où que vous avez des problèmes dites le nous! (ouvrez un ticket ici: https://github.com/Eliyaan/DDR-documentation/issues en cliquant sur le bouton vert, ou envoyez nous un mail)
+
+Merci pour votre intérêt au projet, en espérant qu'il vous aura inspiré et donné envie de faire le votre !
