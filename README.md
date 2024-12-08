@@ -41,7 +41,6 @@ C'est le même principe qu'un bouton normal. On voudrait aussi qu'il y ait un mi
 La solution que l'on a trouvé était de séparer la plaque en deux partie conductrices connectées chacun à un des fils et de mettre un matériau conducteur sous le pied du joueur pour qu'il connecte les deux parties conductrices de la plaque quand il met le pied dessus.
 Pour qu'il puisse appuyer à un maximum d'endroit sur la plaque, la séparation des deux parties conductrices est en forme de créneaux pour que peu importe la position du pied, il y ai les deux parties sous son pied.
 
-// image de la plaque
 ![image](https://github.com/user-attachments/assets/10996519-3ac3-458b-b5ed-dbb8aa09ce66)
 ![image](https://github.com/user-attachments/assets/5145885e-146f-4232-adfa-ec0906b482b8)
 ![image](https://github.com/user-attachments/assets/4c3dd4a7-a7ff-4d32-8739-816a6ef5a67d)
@@ -65,6 +64,12 @@ Donc ce problème est toujours actuel et la faille principale de ce design actue
 Voici le chausson après l'avoir utilisé intensément en extérieur au Nantes Maker Campus (d'où sa couleur):
 ![0](https://github.com/user-attachments/assets/31332251-a55e-4656-88ec-579c0ba25ddb)
 Les petites découpes sont orientées vers la cheville du joueur quand il a le chausson autour du pied pour qu'il s'adapte mieux à la forme du pied et qu'il soit plus agréable.
+
+## Les chansons
+
+Les packs de chansons se trouvent sur internet, par exemple sur (d'après reddit): https://www.stepmaniaonline.net/ https://zenius-i-vanisher.com/v5.2/simfiles.php?category=simfiles https://docs.google.com/spreadsheets/d/1F1IURV1UAYiICTLhAOKIJfwUN1iG12ZOufHZuDKiP48/htmlview
+Les logiciels sont assez capricieux pour les packs de chansons. Il faut les dézipper dans le dossier Songs du jeu et bien veiller à ce qu'aucun dossier de chanson ne soit directement dans Songs.
+Il faut qu'ils soient tous dans un pack (un dossier) qui lui doit être dans Songs.
 
 Voilà pour le DDR, si on a oublié des infos, où que vous avez des problèmes dites le nous! (ouvrez un ticket ici: https://github.com/Eliyaan/DDR-documentation/issues en cliquant sur le bouton vert, ou envoyez nous un mail)
 
