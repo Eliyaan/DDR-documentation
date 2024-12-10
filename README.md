@@ -3,6 +3,14 @@
 Faisons nos propres DDRs !
 Si vous avez des suggestions, des idées, des questions, des corrections, ouvrez un ticket (issue) ou envoyez nous un mail, plus on s'entraire plus les DDR fabriqués seront biens !
 
+Et hésitez pas à envoyer des photos de votre DDR fini, comme ca on pourra l'ajouter à la documentation pour différentes saveurs de DDR et encourager de nouvelles personnes à faire le leur !
+
+Photos de DDRs finis: 
+
+- La première version fonctionnelle du DDR au Nantes Maker Campus au milieu de tout le bazard. Il marche vraiment bien pour notre niveau débutant (pas de latence ressentie).
+![image](https://github.com/user-attachments/assets/d993d4aa-2651-4f5b-9c55-d98638f8bf16)
+
+
 ## Logiciel du jeu
 
 Pour pouvoir jouer à un jeu de DDR, il faut un logiciel qui sert de jeu. Celui que j'ai utilisé est [itgmania](https://www.itgmania.com/) mais [stepmania](https://www.stepmania.com/) devrait marcher aussi. Installez celui de votre choix et lancez une partie pour tester si ca fonctionne correctement (en jouant avec les fleches directionnelles du clavier).
