@@ -9,7 +9,6 @@ Photos de DDRs finis:
 
 - La première version fonctionnelle du DDR au Nantes Maker Campus au milieu de tout le bazard. Il marche vraiment bien pour notre niveau débutant (pas de latence ressentie).
 
-- 
 ![image](https://github.com/user-attachments/assets/d993d4aa-2651-4f5b-9c55-d98638f8bf16)
 
 
