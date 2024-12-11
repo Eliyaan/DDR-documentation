@@ -57,7 +57,7 @@ Pour qu'il puisse appuyer à un maximum d'endroit sur la plaque, la séparation 
 ![image](https://github.com/user-attachments/assets/4c3dd4a7-a7ff-4d32-8739-816a6ef5a67d)
 
 
-Le matériau conducteur que l'on avait choisi est de l'aluminium de cuisine collé au vernis-colle sur une plaque de bois agloméré. Attention une seule des faces des l'aluminium de cuisine est conductrice ! On a renforcé les bords de l'aluminum en collant du scotch dessus pour éviter qu'il s'arrache/se décolle par les bords. 
+Le matériau conducteur que l'on avait choisi est de l'aluminium de cuisine collé au vernis-colle sur une plaque de bois agloméré (pour découpe laser). Attention une seule des faces des l'aluminium de cuisine est conductrice ! On a renforcé les bords de l'aluminum en collant du scotch dessus pour éviter qu'il s'arrache/se décolle par les bords. 
 Mais à force d'utilisation intensive l'aluminium risque de s'effritter. Nous n'avons pas encore de solution plus efficace pour ce problème. 
 Une solution potentielle serait de mettre de l'aluminium plus épais mais le découper serait bien plus dur et le budjet serait plus important aussi.
 
