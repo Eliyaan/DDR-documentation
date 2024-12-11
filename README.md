@@ -74,6 +74,8 @@ Donc ce problème est toujours actuel et la faille principale de ce design actue
 
 Voici le chausson après l'avoir utilisé intensément en extérieur au Nantes Maker Campus (d'où sa couleur):
 ![0](https://github.com/user-attachments/assets/31332251-a55e-4656-88ec-579c0ba25ddb)
+
+
 Les petites découpes sont orientées vers la cheville du joueur quand il a le chausson autour du pied pour qu'il s'adapte mieux à la forme du pied et qu'il soit plus agréable.
 
 ## Les chansons
