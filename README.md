@@ -12,7 +12,7 @@ Photos of finished DDRs:
 
 ![image](https://github.com/user-attachments/assets/d993d4aa-2651-4f5b-9c55-d98638f8bf16)
 
-<details> <summary>English</summary>
+<details> <summary>English Documentation</summary>
 ## Game software
 
 To be able to play a DDR game, you need software that serves as the game. The one I used is [itgmania](https://www.itgmania.com/) but [stepmania](https://www.stepmania.com/) should work too. Install the one of your choice and run a game to see if it works properly (by playing with the keyboard's directional arrows).
@@ -88,6 +88,11 @@ That's it for the DDR, if we've forgotten any info, or you've got any problems, 
 Thank you for your interest in our project, and we hope it has inspired you to do your own!
 </details>
 
+
+
+
+
+
 Faisons nos propres DDRs !
 Si vous avez des suggestions, des idées, des questions, des corrections, ouvrez un ticket (issue) ou envoyez nous un mail, plus on s'entraire plus les DDR fabriqués seront biens !
 
@@ -99,7 +104,7 @@ Photos de DDRs finis:
 
 ![image](https://github.com/user-attachments/assets/d993d4aa-2651-4f5b-9c55-d98638f8bf16)
 
-<details> <summary>Français</summary>
+<details> <summary>Documentation en Français</summary>
 ## Logiciel du jeu
 
 Pour pouvoir jouer à un jeu de DDR, il faut un logiciel qui sert de jeu. Celui que j'ai utilisé est [itgmania](https://www.itgmania.com/) mais [stepmania](https://www.stepmania.com/) devrait marcher aussi. Installez celui de votre choix et lancez une partie pour tester si ca fonctionne correctement (en jouant avec les fleches directionnelles du clavier).
